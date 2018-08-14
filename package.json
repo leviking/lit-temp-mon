@@ -1,0 +1,10 @@
+{
+  "name": "lit-temp-mon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chartist": "^0.11.0",
+    "lit-html": "^0.10.2"
+  }
+}
